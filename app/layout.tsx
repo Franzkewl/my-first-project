@@ -25,9 +25,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
-        <Link href="/">Home</Link>
-        <Link href="/about">About</Link>
-        <Link href="/projects">Projects</Link>{children}</body>
+        <Link href="/">Home Page</Link>
+        <Link href="/about">About Page</Link>
+        <Link href="/projects">Projects of Cumba</Link>{children}</body>
     </html>
   );
 }
