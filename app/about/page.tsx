@@ -5,7 +5,7 @@ return (
 About Page
 </h1>
 <p className="mt-2">
-I am Franz. The one and only Franz.
+I am Franz Cumba. This is my first Next.js project using the App Router.
 </p>
 </main>
 );
