@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Home() {
 return (
 <main className="p-8">
-<h1 className="text-3xl font-bold">
+<h1 className="text-3xl font-bold" color="blue">
 Home Page
 </h1>
 <br/>

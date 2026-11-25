@@ -9,7 +9,7 @@ const projects = [
 export default function ProjectsPage() {
 return (
 <main className="p-8">
-<h1 className="text-3xl font-bold">
+<h1 className="text-3xl font-bold" color="blue">
 Projects Page
 </h1>
 <br/>
